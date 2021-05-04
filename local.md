@@ -76,4 +76,11 @@ As Kanye West said:
 > We're living the future so
 > the present is our past.
 
+# important illustrations sites
+- https://iconscout.com/lotties
+- https://2.flexiple.com/scale/all-illustrations
+- https://delesign.com/free-designs/graphics
+
+- https://lab.streamlinehq.com/
+- https://storyset.com/
 
