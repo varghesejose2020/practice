@@ -100,3 +100,6 @@ hacker fireworks
 
 
 https://crashmax-dev.github.io/fireworks-js/
+# Gitlab news room
+
+https://gitter.im/gitlab/contributors
