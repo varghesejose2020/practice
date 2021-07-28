@@ -28,11 +28,11 @@ Normal Text
 
 [HASTHAM ALP](https://hasthamalp.gitbook.io/hastham/)
 # debian conference 
-https://salsa.debian.org/debconf-team/public/websites/dc21/-/merge_requests/28
+[salsa](https://salsa.debian.org/debconf-team/public/websites/dc21/-/merge_requests/28)
 
-https://debconf21.debconf.org/register/statistics/
+[registration statics](https://debconf21.debconf.org/register/statistics/)
 
-http://meetbot.debian.net/debconf-team/2021/
+[Meetbot21](http://meetbot.debian.net/debconf-team/2021/)
 
 First Header | Second Header
 ------------ | -------------
