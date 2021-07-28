@@ -28,7 +28,7 @@ Normal Text
 
 [HASTHAM ALP](https://hasthamalp.gitbook.io/hastham/)
 # debian conference 
-[salsa](https://salsa.debian.org/debconf-team/public/websites/dc21/-/merge_requests/28)
+[salsa gitlab](https://salsa.debian.org/debconf-team/public/websites/dc21/)
 
 [registration statics](https://debconf21.debconf.org/register/statistics/)
 
