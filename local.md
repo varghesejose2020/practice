@@ -34,6 +34,9 @@ Normal Text
 
 [Meetbot21](http://meetbot.debian.net/debconf-team/2021/)
 
+[registration statics](https://debconf21.debconf.org/register/statistics/)
+
+
 First Header | Second Header
 ------------ | -------------
 Content from cell 1 | Content from cell 2
@@ -73,6 +76,8 @@ example code block
 - console.log();
 
 ```
+
+Hi
 
 
 As Kanye West said:
