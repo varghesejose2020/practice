@@ -97,7 +97,8 @@ As Kanye West said:
 - https://under45.in/
 
 
-
+cs practicles syllabus
+https://github.com/rabeeh-ta/Kerala-Syllabus-CS-practicals
 
 Youtube video cutter
 https://odownloader.com/yt-videos-cutter-online
