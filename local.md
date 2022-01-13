@@ -100,17 +100,17 @@ As Kanye West said:
 cs practicles syllabus
 https://github.com/rabeeh-ta/Kerala-Syllabus-CS-practicals
 
-Youtube video cutter
+*Youtube video cutter*
 https://odownloader.com/yt-videos-cutter-online
 
 
-water building
+*water building*
 https://oskarstalberg.com/Townscaper/
 
 
 
 
-hacker fireworks
+*hacker fireworks*
 
 
 https://crashmax-dev.github.io/fireworks-js/
