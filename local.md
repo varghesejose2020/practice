@@ -118,4 +118,5 @@ https://crashmax-dev.github.io/fireworks-js/
 
 https://gitter.im/gitlab/contributors
 
-gitlab hackathon
+*gitlab hackathon*
+https://about.gitlab.com/community/hackathon/
